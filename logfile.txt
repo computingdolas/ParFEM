@@ -1,0 +1,8 @@
+#Changes to be made will be written in this file and by whome  
+
+1 Check for the negative entries - sagar- sagar   
+
+2. cmake build system has to be done -vakul  
+3. function pointer - how to include delta 
+4. testing for illogical inputs 
+5. verifying with reference outpputs 
