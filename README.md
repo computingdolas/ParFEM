@@ -3,5 +3,5 @@
 
 
 
-!(Helmholtz Equation)(https://latex.codecogs.com/gif.latex?-%20%5CDelta%20u%28x%2Cy%29%20-%20k%28x%2Cy%29%5E%7B2%7D%20u%28x%2Cy%29%20%3D%20f%28x%2Cy%29%20%5Chspace%7B2mm%7D%20in%20%5Chspace%7B2mm%7D%20%5COmega)
+!(Helmholtz Equation){https://latex.codecogs.com/gif.latex?-%20%5CDelta%20u%28x%2Cy%29%20-%20k%28x%2Cy%29%5E%7B2%7D%20u%28x%2Cy%29%20%3D%20f%28x%2Cy%29%20%5Chspace%7B2mm%7D%20in%20%5Chspace%7B2mm%7D%20%5COmega}
 
